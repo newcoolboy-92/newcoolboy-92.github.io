@@ -345,7 +345,7 @@
 
   <script>
     const audio = document.getElementById('pageAudio');
-    const muteBtn = document.getElementById('mute-btn');
+    const muteBtn = document.getElementById('mute-btn'); 
     const playBtn = document.getElementById('play-btn');
 
     playBtn.addEventListener('click', () => {
